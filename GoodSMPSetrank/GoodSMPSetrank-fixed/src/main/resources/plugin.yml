@@ -1,0 +1,16 @@
+name: GoodSMPSetrank
+version: 1.0.0
+main: id.goodsmp.setrank.GoodSMPSetrank
+api-version: 1.20
+description: Setrank plugin for GoodSMP
+
+commands:
+  setrank:
+    description: Set rank of a player using LuckPerms
+    usage: /setrank <player> <group>
+    permission: goodsmp.setrank
+
+permissions:
+  goodsmp.setrank:
+    description: Allows setting player rank
+    default: op

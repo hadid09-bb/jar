@@ -1,0 +1,5 @@
+discord:
+  webhook-url: "https://discord.com/api/webhooks/1480462943408881807/sH4cFpDjq8yvBQkIiOPUPygudsBqax589s0Td4pvmN1B_zOXF-ZqYiJiqqP47wBxB5R0"
+
+# Color for Discord embed (decimal) - Blue
+color: 3447003
